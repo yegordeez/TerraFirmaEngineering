@@ -1,0 +1,8 @@
+#Replace TFC overworld veins and TFCM geodes with config/tfcm/*.yaml world generation
+enableCustomVeinGeneration = true
+#Content is disabled after the game is restarted.
+#Accepted metal IDs: compressed_iron, platinum, naquadah, iridium, osmium, osmiridium, mithril, arcane, refined_glowstone, refined_obsidian, antimony, titanium, cobalt, lithium, aluminum, constantan, invar, electrum, lead, uranium, tungsten, solder, tungsten_steel, netherite, dawnstone, andesite_alloy, draconium, awakened_draconium, boron, thorium, magnesium, beryllium, zirconium, manganese, molybdenum, neodymium, vanadium, hastelloy, high_speed_steel, signalum, lumium, enderium
+disabledMetals = []
+#Unknown IDs are ignored. Content is disabled after the game is restarted.
+#Accepted ore IDs: native_platinum, native_naquadah, native_iridium, native_osmium, rutile, cobaltite, spodumene, bauxite, galena, uraninite, mithril_matrix, stibnite, wolframite, thorianite, magnesite, zircon, pyrolusite, monazite, fluorite, quartz, carobbiite, native_copper, native_gold, hematite, native_silver, cassiterite, bismuthinite, garnierite, malachite, magnetite, limonite, sphalerite, tetrahedrite, chromite, cinnabar, cryolite, graphite, sulfur, borax, amethyst, diamond, emerald, gypsum, lapis_lazuli, opal, pyrite, ruby, saltpeter, sapphire, sylvite, topaz, bituminous_coal, halite, lignite, nether_quartz
+disabledOres = []

@@ -1,0 +1,20 @@
+# 
+#冰箱封存，食物的腐烂速度
+#Fridge Preserved, the decay modifier of food
+# Default: 0.4
+# Range: 0.0 ~ 1.7976931348623157E308
+fridgePreservedDecayModifier = 0.4
+# 
+#冰箱冷藏，食物的腐烂速度
+#Electricity Fridge Preserved, the decay modifier of food
+# Default: 0.25
+# Range: 0.0 ~ 1.7976931348623157E308
+electricityFridgePreservedDecayModifier = 0.25
+# 
+#移除怪物身上的背包
+#Remove backpack on monster
+removeBackpackOnMonster = true
+# 
+#是否开启背包重量
+#Whether enable backpack weight
+backpackOverweight = true

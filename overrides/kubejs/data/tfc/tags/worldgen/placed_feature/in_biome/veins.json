@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [],
+  "remove": [
+    "tfc_ie_addon:vein/surface_bauxite",
+    "tfc_ie_addon:vein/normal_bauxite",
+    "tfc_ie_addon:vein/surface_galena",
+    "tfc_ie_addon:vein/normal_galena",
+    "tfc_ie_addon:vein/normal_uraninite"
+  ]
+}

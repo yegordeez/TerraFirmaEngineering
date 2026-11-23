@@ -1,0 +1,325 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "tfcm:ore/amethyst/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/amethyst/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/borax/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/borax/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/cinnabar/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/cinnabar/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/cryolite/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/cryolite/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/diamond/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/diamond/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/emerald/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/emerald/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/andesite",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/basalt",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/chalk",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/chert",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/claystone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/conglomerate",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/dacite",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/diorite",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/dolomite",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/gabbro",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/gneiss",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/granite",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/limestone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/marble",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/phyllite",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/quartzite",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/rhyolite",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/schist",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/shale",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/slate",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/fluorite/tuff",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/graphite/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/graphite/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/gypsum/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/gypsum/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/lapis_lazuli/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/lapis_lazuli/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/opal/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/opal/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/pyrite/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/pyrite/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/andesite",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/basalt",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/chalk",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/chert",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/claystone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/conglomerate",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/dacite",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/diorite",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/dolomite",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/gabbro",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/gneiss",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/granite",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/limestone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/marble",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/phyllite",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/quartzite",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/rhyolite",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/schist",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/shale",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/slate",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/quartz/tuff",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/ruby/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/ruby/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/saltpeter/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/saltpeter/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/sapphire/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/sapphire/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/sulfur/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/sulfur/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/sylvite/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/sylvite/netherrack",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/topaz/end_stone",
+      "required": false
+    },
+    {
+      "id": "tfcm:ore/topaz/netherrack",
+      "required": false
+    }
+  ]
+}

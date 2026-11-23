@@ -1,0 +1,80 @@
+{
+  "name": "Необычные блоки",
+  "category": "tfc:beneath",
+  "icon": "beneath:soul_clay",
+  "pages": [
+    {
+      "type": "patchouli:multiblock",
+      "multiblock": {
+        "pattern": [
+          [
+            "X"
+          ],
+          [
+            "0"
+          ]
+        ],
+        "mapping": {
+          "X": "beneath:soul_clay"
+        }
+      },
+      "name": "Глина душ",
+      "text": "Глину душ можно найти в долинах песка душ. Из неё добывают обычную глину.",
+      "enable_visualize": false
+    },
+    {
+      "type": "patchouli:multiblock",
+      "multiblock": {
+        "pattern": [
+          [
+            "X"
+          ],
+          [
+            "0"
+          ]
+        ],
+        "mapping": {
+          "X": "beneath:sulfur"
+        }
+      },
+      "name": "Сера",
+      "text": "Серу можно добывать лопатой. Будьте осторожны, железные и стальные инструменты при контакте с серой вызывают взрыв!",
+      "enable_visualize": false
+    },
+    {
+      "type": "patchouli:multiblock",
+      "multiblock": {
+        "pattern": [
+          [
+            "X"
+          ],
+          [
+            "0"
+          ]
+        ],
+        "mapping": {
+          "X": "beneath:warped_thatch"
+        }
+      },
+      "name": "Соломенная кровля",
+      "text": "Срезая траву, вы получите багровую или искажённую солому. Соломенную кровлю из неё делают обычным способом.",
+      "enable_visualize": false
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "beneath:crafting/blackstone_aqueduct",
+      "text": "Акведук из чернита позволяет проводить лаву на любое расстояние."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "beneath:crafting/hellbricks",
+      "text": "Адские кирпичи подходят для строительства и нужны для сооружения адской кузницы."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "beneath:crafting/blackstone_brick",
+      "text": "Кладку из чернита делают так же, как обычную кирпичную кладку. Сначала изготовьте отдельные кирпичи."
+    }
+  ],
+  "read_by_default": true
+}

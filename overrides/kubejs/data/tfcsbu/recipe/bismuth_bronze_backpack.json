@@ -1,0 +1,19 @@
+{
+  "type": "sophisticatedbackpacks:backpack_upgrade",
+  "category": "misc",
+  "pattern": [
+    "RCR",
+    "IBI",
+    "RCR"
+  ],
+  "key": {
+    "R": { "item": "tfcm:metal/rivet/bismuth_bronze" },
+    "C": { "item": "tfc:metal/rod/bismuth_bronze" },
+    "I": { "item": "tfcm:metal/ring/bismuth_bronze" },
+    "B": { "item": "sophisticatedbackpacks:copper_backpack" }
+  },
+  "result": {
+    "id": "tfcsbu:bismuth_bronze_backpack",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Антикомпостер",
+  "category": "tfc:beneath",
+  "icon": "beneath:unposter",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Антикомпостер$() разводит грибы. В него можно положить грибы, слёзы гаста и культуры Незера. Поставьте антикомпостер рядом с грибом. Раз в сутки он расходует содержимое, чтобы вокруг выросли такие же грибы."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "beneath:crafting/unposter"
+    }
+  ],
+  "read_by_default": true
+}

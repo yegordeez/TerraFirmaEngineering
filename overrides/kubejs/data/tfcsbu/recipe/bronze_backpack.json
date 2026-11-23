@@ -1,0 +1,19 @@
+{
+  "type": "sophisticatedbackpacks:backpack_upgrade",
+  "category": "misc",
+  "pattern": [
+    "RCR",
+    "IBI",
+    "RCR"
+  ],
+  "key": {
+    "R": { "item": "tfcm:metal/rivet/bronze" },
+    "C": { "item": "tfc:metal/rod/bronze" },
+    "I": { "item": "tfcm:metal/ring/bronze" },
+    "B": { "item": "sophisticatedbackpacks:copper_backpack" }
+  },
+  "result": {
+    "id": "tfcsbu:bronze_backpack",
+    "count": 1
+  }
+}

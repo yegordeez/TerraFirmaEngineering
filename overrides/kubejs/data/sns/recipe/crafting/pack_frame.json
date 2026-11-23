@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IRI",
+    "R R",
+    "IRI"
+  ],
+  "key": {
+    "R": { "item": "tfc:metal/rod/wrought_iron" },
+    "I": { "item": "tfcm:metal/rivet/wrought_iron" }
+  },
+  "result": {
+    "id": "sns:pack_frame",
+    "count": 1
+  }
+}

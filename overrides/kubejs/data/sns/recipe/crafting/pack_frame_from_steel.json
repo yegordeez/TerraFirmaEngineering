@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RSR",
+    "S S",
+    "RSR"
+  ],
+  "key": {
+    "R": { "item": "tfcm:metal/rivet/steel" },
+    "S": { "item": "tfcm:metal/stamen/steel" }
+  },
+  "result": {
+    "id": "sns:pack_frame",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+[blaze_burner]
+	# Default: 80
+	# Range: 0 ~ 10000
+	smoulderingHeat = 80
+	# Default: 1100
+	# Range: 0 ~ 10000
+	fadingHeat = 1100
+	# Default: 1300
+	# Range: 0 ~ 10000
+	kindledHeat = 1300
+	# Default: 1800
+	# Range: 0 ~ 10000
+	seethingHeat = 1800
+
+[encased_fan]
+	# Default: 100
+	# Range: 0 ~ 10000
+	baseAir = 100
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	speedMultiplier = 1.0
+
+[mechanical_converters]
+	# Default: 32
+	# Range: 0 ~ 16384
+	createToTfcStressImpact = 32
+	# Default: 32
+	# Range: 0 ~ 16384
+	tfcToCreateStressCapacity = 32

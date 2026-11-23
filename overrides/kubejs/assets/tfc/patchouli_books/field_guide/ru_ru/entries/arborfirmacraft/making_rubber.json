@@ -1,0 +1,13 @@
+{
+  "name": "Получение резины",
+  "category": "tfc:arborfirmacraft",
+  "icon": "afc:rubber_bar",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Чтобы получить резину, налейте латекс в котелок, добавьте серный порошок и нагрейте смесь."
+    }
+  ],
+  "read_by_default": true,
+  "sortnum": 3
+}

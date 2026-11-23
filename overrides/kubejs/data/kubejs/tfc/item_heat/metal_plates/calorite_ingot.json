@@ -1,0 +1,6 @@
+{
+  "ingredient": { "item": "ad_astra:calorite_ingot" },
+  "heat_capacity": 2.857143,
+  "forging_temperature": 1050.0,
+  "welding_temperature": 1400.0
+}

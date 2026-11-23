@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "ig_tools",
+  "pattern": [
+    "MFM",
+    "FBF",
+    "MFM"
+  ],
+  "key": {
+    "M": { "item": "tfc:mortar" },
+    "F": { "item": "tfc:ceramic/fire_brick" },
+    "B": { "item": "tfc:metal/grate/steel" }
+  },
+  "result": {
+    "count": 1,
+    "id": "immersivegeology:storage_block_refractory_brick"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "toolbelt:enable_normal_crafting"
+    }
+  ],
+  "type": "tfc:advanced_shaped_crafting",
+  "input_row": 0,
+  "input_column": 1,
+  "pattern": [
+    "STS",
+    "RHI",
+    "PAP"
+  ],
+  "key": {
+    "S": { "item": "sns:reinforced_fiber" },
+    "T": { "item": "tfc:bone_needle" },
+    "R": { "item": "tfcm:metal/ring/gold" },
+    "H": { "item": "tfcm:leather_sheet" },
+    "I": { "item": "tfcm:metal/rivet/gold" },
+    "P": { "item": "sns:bound_leather_strip" },
+    "A": { "item": "sns:unfinished_leather_sack" }
+  },
+  "remainder": {
+    "modifiers": [
+      { "type": "tfc:damage_crafting_remainder" }
+    ]
+  },
+  "result": {
+    "count": 1,
+    "id": "toolbelt:pouch"
+  }
+}

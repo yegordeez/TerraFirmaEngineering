@@ -1,0 +1,33 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedbackpacks:backpack"
+    }
+  ],
+  "type": "tfc:advanced_shaped_crafting",
+  "input_row": 2,
+  "input_column": 1,
+  "pattern": [
+    "LSL",
+    "RFR",
+    "ENE"
+  ],
+  "key": {
+    "L": { "item": "tfcm:leather_strap" },
+    "S": { "item": "tfc:metal/sheet/wrought_iron" },
+    "R": { "item": "tfc:metal/rod/wrought_iron" },
+    "F": { "item": "sns:frame_pack" },
+    "E": { "item": "sns:reinforced_fabric" },
+    "N": { "item": "tfc:bone_needle" }
+  },
+  "remainder": {
+    "modifiers": [
+      { "type": "tfc:damage_crafting_remainder" }
+    ]
+  },
+  "result": {
+    "id": "sophisticatedbackpacks:backpack",
+    "count": 1
+  }
+}

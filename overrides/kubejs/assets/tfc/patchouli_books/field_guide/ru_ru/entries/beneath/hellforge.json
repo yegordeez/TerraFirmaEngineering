@@ -1,0 +1,50 @@
+{
+  "name": "Адская кузница",
+  "category": "tfc:beneath",
+  "icon": "beneath:cursecoal",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Адская кузница$() вмещает много топлива и предметов для нагрева. Для её сооружения нужны адские кирпичи, $(l:beneath/ores_and_minerals#cursecoal)проклятый уголь$() и акведуки из чернита."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "multiblock": {
+        "pattern": [
+          [
+            "ZXXXZ",
+            "XYYYX",
+            "XY0YX",
+            "XYYYX",
+            "ZXXXZ"
+          ],
+          [
+            "     ",
+            " XXX ",
+            " XXX ",
+            " XXX ",
+            "     "
+          ]
+        ],
+        "mapping": {
+          "Z": "beneath:blackstone_aqueduct[fluid=lava]",
+          "Y": "beneath:hellforge_side",
+          "0": "beneath:hellforge",
+          "X": "beneath:hellbricks"
+        }
+      },
+      "name": "Адская кузница",
+      "text": "",
+      "enable_visualize": false
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Для постройки нужен 21 блок адских кирпичей. В четырёх углах должна течь лава по акведукам. Заполните центральную площадку 3 × 3 кучами $(l:beneath/ores_and_minerals#cursecoal)проклятого угля$() и подожгите его."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "В одни и те же ячейки можно класть топливо и предметы для нагрева. Следите за тем, что кладёте в кузницу. Как и в угольной кузнице, здесь есть ячейки для плавки. Температуру показывает шкала лавы в интерфейсе. О нагреве также можно судить по движению предметов в самой кузнице."
+    }
+  ],
+  "read_by_default": true
+}

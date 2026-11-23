@@ -1,0 +1,112 @@
+{
+  "name": "Руды и минералы",
+  "category": "tfc:beneath",
+  "icon": "beneath:ore/normal_nether_gold",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "В Незере тоже есть рудные жилы. $(thing)Незерак$() не обваливается, а вот $(thing)чернит$(), $(thing)незерские кирпичи$(), $(thing)незерский булыжник$() и некоторые другие блоки могут обрушиться. Геологический молоток работает и в Незере."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "anchor": "nether_gold",
+      "multiblock": {
+        "pattern": [
+          [
+            "X"
+          ],
+          [
+            "0"
+          ]
+        ],
+        "mapping": {
+          "X": "beneath:ore/normal_nether_gold"
+        }
+      },
+      "name": "Незерское золото",
+      "text": "Незерское золото часто встречается в жилах среди незерака. Под лавой золота больше, а руда богаче.",
+      "enable_visualize": false
+    },
+    {
+      "type": "patchouli:multiblock",
+      "anchor": "cursecoal",
+      "multiblock": {
+        "pattern": [
+          [
+            "X"
+          ],
+          [
+            "0"
+          ]
+        ],
+        "mapping": {
+          "X": "beneath:ore/nether_cursecoal"
+        }
+      },
+      "name": "Проклятый уголь",
+      "text": "Проклятый уголь — мощное $(l:beneath/hellforge)топливо$(). Его залежи встречаются в незераке выше уровня 80.",
+      "enable_visualize": false
+    },
+    {
+      "type": "patchouli:multiblock",
+      "anchor": "sylvite",
+      "multiblock": {
+        "pattern": [
+          [
+            "X"
+          ],
+          [
+            "0"
+          ]
+        ],
+        "mapping": {
+          "X": "beneath:ore/blackstone_sylvite"
+        }
+      },
+      "name": "Сильвит",
+      "text": "Сильвит встречается в базальте на любой высоте.",
+      "enable_visualize": false
+    },
+    {
+      "type": "patchouli:multiblock",
+      "anchor": "quartz",
+      "multiblock": {
+        "pattern": [
+          [
+            "X"
+          ],
+          [
+            "0"
+          ]
+        ],
+        "mapping": {
+          "X": "minecraft:nether_quartz_ore"
+        }
+      },
+      "name": "Незерский кварц",
+      "text": "Незерский кварц часто встречается в незераке на любой высоте.",
+      "enable_visualize": false
+    },
+    {
+      "type": "patchouli:multiblock",
+      "anchor": "slimed_netherrack",
+      "multiblock": {
+        "pattern": [
+          [
+            "X"
+          ],
+          [
+            "0"
+          ]
+        ],
+        "mapping": {
+          "X": "beneath:ore/slimed_netherrack"
+        }
+      },
+      "name": "Слизистый незерак",
+      "text": "Слизистый незерак изредка встречается среди обычного незерака выше уровня лавы.",
+      "enable_visualize": false
+    }
+  ],
+  "read_by_default": true
+}

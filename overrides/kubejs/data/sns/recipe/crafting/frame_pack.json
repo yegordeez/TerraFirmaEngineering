@@ -1,0 +1,28 @@
+{
+  "type": "tfc:advanced_shaped_crafting",
+  "input_row": 2,
+  "input_column": 2,
+  "pattern": [
+    "SHS",
+    "BFB",
+    "TRN"
+  ],
+  "key": {
+    "S": { "item": "tfcm:leather_strap" },
+    "H": { "item": "tfcm:leather_sheet" },
+    "B": { "item": "sns:bound_leather_strip" },
+    "F": { "item": "sns:pack_frame" },
+    "T": { "item": "minecraft:name_tag" },
+    "R": { "item": "sns:reinforced_fabric" },
+    "N": { "item": "tfc:bone_needle" }
+  },
+  "remainder": {
+    "modifiers": [
+      { "type": "tfc:damage_crafting_remainder" }
+    ]
+  },
+  "result": {
+    "id": "sns:frame_pack",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "sophisticatedbackpacks:backpack_upgrade",
+  "category": "misc",
+  "pattern": [
+    "RCR",
+    "IBI",
+    "RCR"
+  ],
+  "key": {
+    "R": { "item": "tfcm:metal/rivet/wrought_iron" },
+    "C": { "item": "tfc:metal/rod/wrought_iron" },
+    "I": { "item": "tfcm:metal/ring/wrought_iron" },
+    "B": { "tag": "tfcsbu:copper_alloy_backpacks" }
+  },
+  "result": {
+    "id": "tfcsbu:wrought_iron_backpack",
+    "count": 1
+  }
+}

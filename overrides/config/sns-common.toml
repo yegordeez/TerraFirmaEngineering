@@ -1,0 +1,2 @@
+#Do pick block for Item Container. Server will trump client config!
+doPickBlock = true
